@@ -35,8 +35,8 @@ Loyihani ishlatish uchun quyidagi qadamlarni bajaring:
 - **Gradio** (foydalanuvchi interfeysi)
 - **Python va Transformers kutubxonasi**
 
-## 📷 Skrinshot
-![STT interfeysi](image.png)
+![image](https://github.com/user-attachments/assets/a84a44c6-3b0f-452c-9f35-02289445d5e7)
+
 
 ## 👤 Muallif
 - **Abdulkhaliq Mirzaev**
