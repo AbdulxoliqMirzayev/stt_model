@@ -4,7 +4,7 @@
 
 Bu loyiha **O'zbek tilidagi nutqni matnga o‘girish** uchun yaratilgan. **Gradio interfeysi** orqali foydalanuvchi mikrofon yordamida gapiradi va natijada **STT (Speech-to-Text) modeli** orqali matn sifatida chiqariladi.
 
-![STT interfeysi](image.png)
+
 
 ## 🚀 Xususiyatlar
 - **Ovozdan matnga konvertatsiya** (Hugging Face'dagi **Whisper** modeli asosida)
